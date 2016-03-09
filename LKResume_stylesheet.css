@@ -1,0 +1,38 @@
+body {
+	background-image: url("http://www.publicdomainpictures.net/pictures/10000/nahled/halo-25761283136929cxC6.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 30px;
+	border: 5px solid #660066;
+}
+
+.heading {
+	color: #cc6666;
+	font-family: Georgia, serif;
+	text-align: center;
+	font-style: bold;
+	padding: 15px;
+}
+
+.contact {
+	color: #cc6666;
+	font-family: Georgia, serif;
+	display: inline-block;
+	padding-left: 18%;
+	padding-right: 18%;
+	padding-bottom: 15px;
+	text-align: center;
+	/*I very much wanted the contact information to be centered on the page. I tried multiple techniques, and had the most success using percentages (above). I hope this results in a similar layout on other computers! I.e., I hope other computers have browsers open that happen to be the exact width of mine.*/
+}
+
+.main {
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-bottom: 15px;
+	color: #333333;
+}
+
+h3 {
+	color: #cc6666;
+	font-style: bold;
+}
